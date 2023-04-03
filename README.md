@@ -23,7 +23,9 @@
 			
 				* [다른 팀원 깃허브 주소](https://github.com/hsy010517/Jakery) - 소통
 
-			* 가계부 : 소득과 지출 작성. 해당 데이터를 토대로 그래프작성 (깃허브에 없음) - 분석
+			* 가계부 : 소득과 지출 작성. 해당 데이터를 토대로 그래프작성 
+
+				* [깃허브 주소](https://github.com/TofuAndSoySauce/hhr_payStyle) - 분석
 
 		* 개인프로젝트
 
