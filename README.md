@@ -39,11 +39,11 @@
 
 		* 로그인 회원가입을 리액트와 localStorage를 이용해 만듦.
 			
-			* [깃허브 주소](https://github.com/TofuAndSoySauce/react-login-regit-localStorge-academy)
+			* [깃허브 주소](https://github.com/TofuAndSoySauce/react-login-regit-localStorge-academy)  
 		
-		* 회원가입을 리액트와 스프링부트를 axios를 이용해 구현해 봄. 빈칸을 입력하면 오류.
+		* 회원가입을 리액트와 스프링부트를 axios를 이용해 구현해 봄. 빈칸을 입력하면 오류.  
 
-			* [깃허브주소]([https://github.com/TofuAndSoySauce/axios-with-react-and-springboot](https://github.com/TofuAndSoySauce/axios-with-react-and-springboot/tree/master/payStyleCopyToReact-2023-03-09-night.zip_expanded)
+			* [깃허브주소]([https://github.com/TofuAndSoySauce/axios-with-react-and-springboot](https://github.com/TofuAndSoySauce/axios-with-react-and-springboot/tree/master/payStyleCopyToReact-2023-03-09-night.zip_expanded)  
 		
 
 
