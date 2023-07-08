@@ -65,7 +65,7 @@
 	
 	
 		
-
+<!--
 
 4. 교육 (education)
 
@@ -76,7 +76,7 @@
 5. 작성일 (write date) : 2023-03-15 - 마크다운언어 처음사용.
 
 ---------------------------------------------------------------
-
+-->
 <!--
 **TofuAndSoySauce/TofuAndSoySauce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
