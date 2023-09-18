@@ -35,33 +35,36 @@
 
 	* React
 
-		* 로그인 회원가입을 리액트와 localStorage를 이용해 만듦.
+		* 로그인 회원가입을 리액트와 localStorage를 이용해 만듦
 			
 			* [깃허브 주소](https://github.com/TofuAndSoySauce/react-login-regit-localStorge-academy)  
 		
-		* 회원가입을 리액트와 스프링부트를 axios를 이용해 구현해 봄. 빈칸을 입력하면 오류.  
+		* 회원가입을 리액트와 스프링부트를 axios를 이용해 구현해 봄. 빈칸을 입력하면 오류
 
 			 
-		
+	* Next.js
 
+ 		* 기본적인 게시판 기능구현과 깃허브로그인을 사용하기위해 MongoDB, AWS, 깃허브 OAUTH를 사용하였다
+
+			* [AWS 주소](http://istestfornextjsserviceiam-env.eba-n32mkuem.ap-northeast-2.elasticbeanstalk.com/)
 
 3. 경험 (experience)
 
 	* 베이커리 프로젝트의 경우 스위트알럿이라는 api를 썼다
 	
 
-	* 가계부 프로젝트를 마무리 하고 있었는데 다른 팀원이 일부 그래프가 나오지 않음을 캐치했다.
+	* 가계부 프로젝트를 마무리 하고 있었는데 다른 팀원이 일부 그래프가 나오지 않음을 캐치했다
 
-		* 프로젝트 마무리 전 테스트를 진행 했기 때문에 빠르게 대처함.
+		* 프로젝트 마무리 전 테스트를 진행 했기 때문에 빠르게 대처함
 
 	* recorSys 
 		
-		* fullcalendar라는 api를 적용해봄.
+		* fullcalendar라는 api를 적용해봄
 		
 
 	* React 로그인 회원가입 기능 구현 : 회원가입 로그인이 잘 안되어서 한번 정리하고 나니 잘된다
 
-		* 안될 때는 너무 복잡해 보여서 그런 것일 수도 있다. 불필요한 코드를 지우고 다시 해 보자.
+		* 안될 때는 너무 복잡해 보여서 그런 것일 수도 있다. 불필요한 코드를 지우고 다시 해 보자
 	
 	
 		
@@ -73,10 +76,10 @@
 
 		(프론트엔드,백엔드,리액트,자바,스프링) 개발자 육성과정
 
-5. 작성일 (write date) : 2023-03-15 - 마크다운언어 처음사용.
+5. 작성일 (write date) : 2023-03-15 - 마크다운언어 처음사용
 
 ---------------------------------------------------------------
--->
+<!-- 수정일 2023-09-19 -->
 <!--
 **TofuAndSoySauce/TofuAndSoySauce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
