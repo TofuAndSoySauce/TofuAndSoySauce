@@ -31,13 +31,23 @@
 
 			* recorSys : 다이어리와 용돈기입장과 스케쥴작성을 하나로 합침
 			
-				* [깃허브 주소](https://github.com/TofuAndSoySauce항
+				* [깃허브 주소](https://github.com/TofuAndSoySauce/recorSys)
 
-     			* [Vue.js 프론트엔드](https://github.com/TofuAndSoySauce/erpapyrightvue)
+	
 
-    			* [Java Spring 백엔드](https://github.com/TofuAndSoySauce/erpapyright)
+	* 팀프로젝트 - 전사적 자원 관리(ERP) - 제이쿼리로 된 페이지를 Vue.js로 변경
 
-3. 경험 (experience)
+     		* Vue.js	 [Vue.js 프론트엔드](https://github.com/TofuAndSoySauce/erpapyrightvue)
+
+		* jQuery	`[Java Spring 백엔드](https://github.com/TofuAndSoySauce/erpapyright)
+
+	
+	* 팀 프로젝트 - 구인/구직 채용박람회 - 제이쿼리로 구현
+
+   		* jQuery	[깃허브 주소](https://github.com/TofuAndSoySauce/recruit-and-job-fair)
+    			
+
+2. 경험 (experience)
 
 	* 베이커리 프로젝트의 경우 스위트알럿이라는 api를 썼다
 	
