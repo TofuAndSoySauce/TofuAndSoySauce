@@ -37,19 +37,19 @@
 
 	* 팀프로젝트
 
- 	- 전사적 자원 관리(ERP) - 제이쿼리로 된 페이지를 Vue.js로 변경 - 담당페이지 : 근태관리, 근태신청/조회, 년별매출현황, 거래처관리, +a 공지사항 
+ 		* 전사적 자원 관리(ERP) - 제이쿼리로 된 페이지를 Vue.js로 변경 - 담당페이지 : 근태관리, 근태신청/조회, 년별매출현황, 거래처관리, +a 공지사항 
 
-		* Vue.js	[Vue.js 프론트엔드](https://github.com/TofuAndSoySauce/erpapyrightvue) 
+			* Vue.js	[Vue.js 프론트엔드](https://github.com/TofuAndSoySauce/erpapyrightvue) 
 
 
-		* jQuery	[Java Spring 백엔드](https://github.com/TofuAndSoySauce/erpapyright)
+			* jQuery	[Java Spring 백엔드](https://github.com/TofuAndSoySauce/erpapyright)
 
 	
 	* 팀 프로젝트
  
-  	- 구인/구직 채용박람회 - 제이쿼리로 구현 - 담당페이지 : 개인정보조회/수정, 기업정보조회/수정,  기업의 취업박람회관리, 현재진행중인 취업박람회 기업신청
+  		* 구인/구직 채용박람회 - 제이쿼리로 구현 - 담당페이지 : 개인정보조회/수정, 기업정보조회/수정,  기업의 취업박람회관리, 현재진행중인 취업박람회 기업신청
 
-   		* jQuery	[깃허브 주소](https://github.com/TofuAndSoySauce/recruit-and-job-fair)
+   			* jQuery	[깃허브 주소](https://github.com/TofuAndSoySauce/recruit-and-job-fair)
     			
 
 2. 경험 (experience)
