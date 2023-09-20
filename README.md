@@ -11,7 +11,7 @@
 
 	* HTML, CSS, JavaScript
 
-		* 반응형 웹 : 미디어쿼리, 플렉스, 그리드
+		* 반응형 웹 : 미디어쿼리, 플렉스박스(Flexbox), CSS Grid
 
 	* Springboot
 
@@ -31,22 +31,11 @@
 
 			* recorSys : 다이어리와 용돈기입장과 스케쥴작성을 하나로 합침
 			
-				* [깃허브 주소](https://github.com/TofuAndSoySauce/recorSys)
+				* [깃허브 주소](https://github.com/TofuAndSoySauce항
 
-	* React
+     			* [Vue.js 프론트엔드](https://github.com/TofuAndSoySauce/erpapyrightvue)
 
-		* 로그인 회원가입을 리액트와 localStorage를 이용해 만듦
-			
-			* [깃허브 주소](https://github.com/TofuAndSoySauce/react-login-regit-localStorge-academy)  
-		
-		* 회원가입을 리액트와 스프링부트를 axios를 이용해 구현해 봄. 빈칸을 입력하면 오류
-
-			 
-	* Next.js
-
- 		* 기본적인 게시판 기능구현과 깃허브로그인을 사용하기위해 MongoDB, AWS, 깃허브 OAUTH를 사용하였다
-
-			* [AWS 주소](http://istestfornextjsserviceiam-env.eba-n32mkuem.ap-northeast-2.elasticbeanstalk.com/)
+    			* [Java Spring 백엔드](https://github.com/TofuAndSoySauce/erpapyright)
 
 3. 경험 (experience)
 
@@ -80,6 +69,7 @@
 
 ---------------------------------------------------------------
 <!-- 수정일 2023-09-19 -->
+<!-- 수정일 2023-09-20 -->
 <!--
 **TofuAndSoySauce/TofuAndSoySauce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
